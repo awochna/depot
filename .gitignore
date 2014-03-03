@@ -15,5 +15,5 @@
 /log/*.log
 /tmp
 .project
-.swp
-.swo
+*.swp
+*.swo
